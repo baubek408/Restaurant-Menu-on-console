@@ -1,0 +1,13 @@
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.deps.json
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.runtimeconfig.json
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.runtimeconfig.dev.json
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.dll
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.pdb
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.csproj.AssemblyReference.cache
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.AssemblyInfoInputs.cache
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.AssemblyInfo.cs
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.csproj.CoreCompileInputs.cache
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.dll
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.pdb
+/Users/mynbayevbaubek/Projects/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.genruntimeconfig.cache
